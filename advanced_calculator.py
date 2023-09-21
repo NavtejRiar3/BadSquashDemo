@@ -5,4 +5,4 @@ def square(num):
 # Define a function to cube a number
 # Define a function to square a number
 def cube(num):
-    return num ** 4
+    return num ** 3
