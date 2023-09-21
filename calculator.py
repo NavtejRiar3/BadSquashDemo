@@ -12,3 +12,8 @@ def sub_numbers(num1, num2):
 def mul_numbers(num1, num2):
     result = num1 + num2
     return result
+
+# Define a function to multiply two numbers
+def div_numbers(num1, num2):
+    result = num1 / num2
+    return result
