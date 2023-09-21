@@ -7,3 +7,8 @@ def add_numbers(num1, num2):
 def sub_numbers(num1, num2):
     result = num1 - num2
     return result
+
+# Define a function to multiply two numbers
+def mul_numbers(num1, num2):
+    result = num1 + num2
+    return result
